@@ -6,6 +6,8 @@ I’m currently working on software / hasrdware architecture.
 
 Software will support any timing devices such as Alge Timing, Tag Heuer, Chronelec etc...
 
+C++ / Qt / Angular CLI
+
 <!--
 **OpenRaceTiming/OpenRaceTiming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
